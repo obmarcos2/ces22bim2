@@ -12,4 +12,4 @@ métodos de busca.
 ![diagram](https://user-images.githubusercontent.com/101301437/178034386-12f64e71-4560-49a7-a4e8-2f1f7b4da985.png)
 
 Por fim, note-se que cada classe é implementada em seu próprio script, bem como as interfaces são denotadas
-em um único script. o script main.py demonstra algumas operações presentes em tal projeto, cujo resultado segue também em png.
+em um único script. o script main.py demonstra algumas operações presentes em tal projeto, cujo resultado segue também em teste.png.
